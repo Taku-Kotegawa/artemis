@@ -1,0 +1,8 @@
+/.idea/
+/*.iml
+/artemis-domain/target/
+/artemis-env/target/
+/artemis-initdb/target/
+/artemis-selenium/target/
+/artemis-web/target/
+/artemis-web/artemis-web.iml
